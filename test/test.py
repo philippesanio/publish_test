@@ -1,4 +1,4 @@
-from .main import Main
+from ../main import Main
 
 a = 1
 b = 1
